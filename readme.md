@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
