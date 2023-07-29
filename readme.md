@@ -1,5 +1,8 @@
 <h1 align="left"> I'm DarkCoder</h1>
-<p><a src="https://manishpanda.tech">Designer/Developer/planner</a><p>
+
+    Designer/Developer/planner
+
+
   
 <h3 align="left">Description</h3>
 <p align="left">I am working on UI/UX design, as a full-stack developer for 3 years and playing with them. My curiosity about project work keeps growing and always bring some good ideas to the desk I face many challenges to complete the project. All coding projects are build from the ground up, from planning designing, development and deployment all the way to solving real life problem.</p>
