@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manish Panda</h1>
-<h3 align="center">A passionate website dsigner / developer from India</h3>
+<h1 align="left"> I'm Web Developer</h1>
+<h3 align="left">Description</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
