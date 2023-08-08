@@ -1,5 +1,4 @@
-<h1 align="left"> I become <span>coder</span> for fun.</h1>
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+<h1 align="left"> I become <p style='color:red'>coder</p> for fun.</h1>
 
     Designer/Developer/planner
 <h3 align="left">Description</h3>
