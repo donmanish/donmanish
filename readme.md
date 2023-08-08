@@ -10,5 +10,7 @@
 <span align="left"> <a href="https://www.linkedin.com/in/manish-panda-b41576209" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
 <span align="left"> <a href="https://www.instagram.com/firewheel1996/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
 <span align="left"> <a href="https://manishpanda.tech/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
- 
+
+<h3 align="left">Skills I have work on.. </h3>
+
 
