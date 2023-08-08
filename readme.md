@@ -1,4 +1,4 @@
-<h1 align="left"> I become <span style="color:red">coder</span> for fun.</h1>
+<h1 align="left"> I become <span style="color:red">- coder</span> for fun.</h1>
 
     Designer/Developer/planner
 <h3 align="left">Description</h3>
