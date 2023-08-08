@@ -1,4 +1,4 @@
-<h1 align="left"> I become <span>{\color{REd}coder}</span> for fun.</h1>
+<h1 align="left"> I become <span>coder</span> for fun.</h1>
 
     Designer/Developer/planner
 <h3 align="left">Description</h3>
