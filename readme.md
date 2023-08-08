@@ -16,7 +16,7 @@
 <h4>Database:</h4>
 <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?tyle=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /></span>
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /></span>
-<span><img src=" https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /></span>
+<span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
 <span><img src=" https://img.shields.io/badge/redis-%23DD0031.svg? style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /></span>
 
 
