@@ -2,7 +2,7 @@
 
     Designer/Developer/planner
 <h3 align="left">Description</h3>
-<p align="left">I have been working on UI/UX design as a full-stack developer for 3 years and playing with it. My curiosity about project work keeps growing, and I always bring some good ideas to the desk. I face many challenges to complete the project. All coding projects are built from the ground up, from planning, designing, developing, and deploying all the way to solving real-life problems. My aim is to figure out all System design myself and explore more.</p>
+<p align="left">I have been working on UI/UX design as a full-stack developer for 3 years and playing with it. My curiosity about project work keeps growing, and I always bring some good ideas to the desk. I face many challenges to complete the project. All coding projects are built from the ground up, from planning, designing, developing, and deploying all the way to solving real-life problems. My aim is to figure out all System designs myself and explore more.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 
