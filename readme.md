@@ -3,6 +3,11 @@
     Designer/Developer/planner
 <h3 align="left">Description</h3>
 <p align="left">I have been working on UI/UX design as a full-stack developer for 3 years and playing with it. My curiosity about project work keeps growing, and I always bring some good ideas to the desk. I face many challenges to complete the project. All coding projects are built from the ground up, from planning, designing, developing, and deploying all the way to solving real-life problems. My aim is to figure out all System designs myself and explore more.</p>
+<h3>Project work on</h3>
+<h4>MERN Eccomerce MVC Project</h4>
+<p align="left">Link:</p>
+
+<a  href="https://sangria-kitten-hem.cyclic.cloud/"  target="_blank">Eccomerce Web App</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 
@@ -84,9 +89,5 @@
 
 
 
-<h3>Project work on</h3>
-<h4>MERN Eccomerce MVC Project</h4>
-<p align="left">Link:</p>
 
-<a  href="https://sangria-kitten-hem.cyclic.cloud/"  target="_blank">Eccomerce Web App</a>
 
