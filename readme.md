@@ -13,12 +13,16 @@
 
 <h3 align="left">Skills I have work on.. </h3>
 
-<h4>Database:</h4>
-<span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /></span>
-<span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></span>
-<p>Here Still trying to cover postgresql and Redis...</p>
+<h5>Design</h5>
+
+<span><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /></span>
+<span><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></span>
+
+
+<h5>Depeloper</h5>
 
 <h4>Programming Language:</h4>
 <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></span>
@@ -31,6 +35,16 @@
 <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></span>
+<p>Here Still trying to covers ...</p>
+
+
+<h4>Database:</h4>
+<span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /></span>
+<span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></span>
+<p>Here Still trying to covers ...</p>
+
 
 <h4>Frameworks, Platforms and Libraries</h4>
 <span><img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" /></span>
@@ -53,11 +67,11 @@
 <span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
+<p>Here Still trying to covers ...</p>
 
 
 
-
-<h4>OS:</h4>
+<h5>OS:</h5>
 <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /></span>
@@ -68,8 +82,7 @@
 <span><img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" /></span>
 
 
-<h4>Design</h4>
-<span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></span>
+
 
 <h3>Project work on</h3>
 <h4>MERN Eccomerce MVC Project</h4>
