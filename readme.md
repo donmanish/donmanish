@@ -22,7 +22,8 @@
 
 <h3>Project work on</h3>
 <h4>MERN Eccomerce MVC Project</h4>
-<p>Link:</p>
+<p align="left">Link:</p>
+
 <a  href="https://sangria-kitten-hem.cyclic.cloud/" target="_blank">Eccomerce Web App</a>
 
 
