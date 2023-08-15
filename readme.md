@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 
 <h3 align="left">See my UI and UX design and many more... </h3>
-<span align="left"> <a href="https://www.linkedin.com/in/manish-panda-b41576209" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
-<span align="left"> <a href="https://www.instagram.com/firewheel1996/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
-<span align="left"> <a href="https://manishpanda.tech/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
+<span align="left"> <a href="https://www.linkedin.com/in/manish-panda-b41576209" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
+<span align="left"> <a href="https://www.instagram.com/firewheel1996/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
+<span align="left"> <a href="https://manishpanda.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
 
 <h3 align="left">Skills I have work on.. </h3>
 
@@ -22,6 +22,7 @@
 
 <h3>Project work on</h3>
 <h4>MERN Eccomerce MVC Project</h4>
-<a  href="https://sangria-kitten-hem.cyclic.cloud/" target="blank">Eccomerce Web App</a>
+<p>Link:</p>p>
+<a  href="https://sangria-kitten-hem.cyclic.cloud/" target="_blank">Eccomerce Web App</a>
 
 
