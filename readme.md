@@ -8,9 +8,7 @@
 <hr />
 <h3>Project work on</h3>
 <h4>MERN Eccomerce MVC Project</h4>
-<p align="left">Link:</p>
-
-<a  href="https://sangria-kitten-hem.cyclic.cloud/"  target="_blank">Eccomerce Web App</a>
+<span align="left">Link:</span><span><a  href="https://sangria-kitten-hem.cyclic.cloud/"  target="_blank"> Eccomerce Web App</a></span>
 
 <hr />
 
@@ -18,6 +16,8 @@
 <span align="left"> <a href="https://www.linkedin.com/in/manish-panda-b41576209" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
 <span align="left"> <a href="https://www.instagram.com/firewheel1996/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
 <span align="left"> <a href="https://manishpanda.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
+
+<hr />
 
 <h3 align="left">Skills I have work on.. </h3>
 
@@ -29,6 +29,7 @@
 <span><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /></span>
 <span><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></span>
 
+<hr />
 
 <h5>Depeloper</h5>
 
@@ -43,7 +44,7 @@
 <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></span>
-<p>Here Still trying to covers ...</p>
+
 
 
 <h4>Database:</h4>
@@ -51,7 +52,7 @@
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /></span>
 <span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></span>
-<p>Here Still trying to covers ...</p>
+
 
 
 <h4>Frameworks, Platforms and Libraries</h4>
@@ -75,15 +76,17 @@
 <span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
-<p>Here Still trying to covers ...</p>
 
 
+<hr />
 
 <h5>OS:</h5>
 <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></span>
+
+<hr />
 
 <h4>Server:</h4>
 <span><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></span>
