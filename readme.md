@@ -19,9 +19,9 @@
 
 <hr />
 
-<h3 align="left">Skills I have work on.. </h3>
+<h2 align="left">Skills I have work on.. </h2>
 
-<h5>Design</h5>
+<h3>Design</h3>
 
 <span><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /></span>
@@ -31,7 +31,7 @@
 
 <hr />
 
-<h5>Depeloper</h5>
+<h3>Depeloper</h3>
 
 <h4>Programming Language:</h4>
 <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></span>
@@ -80,7 +80,7 @@
 
 <hr />
 
-<h5>OS:</h5>
+<h3>OS:</h3>
 <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /></span>
@@ -88,7 +88,7 @@
 
 <hr />
 
-<h4>Server:</h4>
+<h3>Server:</h3>
 <span><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" /></span>
 
