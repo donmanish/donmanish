@@ -1,7 +1,7 @@
 <h1 align="left"> I become coder for fun.</h1>
-<img src=" https://avatars.githubusercontent.com/u/21004928?s=400&u=377dd140527bd9aa9fd84c9f5d92bc6dc8695db6&v=4" alt="donmanish" />
 
-    Designer/Developer/planner
+    <h2>Designer/Developer/planner<h2>
+    
 <h3 align="left">Description</h3>
 <p align="left">I have been working on UI/UX design as a full-stack developer for 3 years and playing with it. My curiosity about project work keeps growing, and I always bring some good ideas to the desk. I face many challenges to complete the project. All coding projects are built from the ground up, from planning, designing, developing, and deploying all the way to solving real-life problems. My aim is to figure out all System designs myself and explore more.</p>
 
