@@ -22,6 +22,6 @@
 
 <h3>Project work on</h3>
 <h4>MERN Eccomerce MVC Project</h4>
-<a  href="[https://manishpanda.tech/](https://sangria-kitten-hem.cyclic.cloud/)https://sangria-kitten-hem.cyclic.cloud/" target="blank">Eccomerce Web App</a>
+<a  href="https://sangria-kitten-hem.cyclic.cloud/" target="blank">Eccomerce Web App</a>
 
 
