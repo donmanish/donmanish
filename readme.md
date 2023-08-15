@@ -78,7 +78,7 @@
 <span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
 
 
-<hr />
+<hr /
 
 <h5>OS:</h5>
 <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
