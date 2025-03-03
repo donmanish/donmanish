@@ -8,7 +8,8 @@ Planner/Designer/Developer/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 <hr />
 <h3>Project work on</h3>
-[Eccomerce Web App](https://github.com/zoroworld/Eccom_app) | [Task Management](https://github.com/zoroworld/task-management)
+- [Eccomerce Web App](https://github.com/zoroworld/Eccom_app) 
+- [Task Management](https://github.com/zoroworld/task-management)
 
 <hr />
 
