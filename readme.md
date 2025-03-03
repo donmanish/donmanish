@@ -9,7 +9,8 @@ Planner/Designer/Developer/
 <hr />
 <h3>Project work on</h3>
 <span align="left">Link:</span><span><a  href="https://github.com/zoroworld/Eccom_app"  target="_blank"> Eccomerce Web App</a></span>
-<span align="left">Link:</span><span><a  href="https://github.com/zoroworld/task-management"  target="_blank"> Eccomerce Web App</a></span>
+<hr />
+<span align="left">Link:</span><span><a  href="https://github.com/zoroworld/task-management"  target="_blank"> Task Management</a></span>
 
 <hr />
 
