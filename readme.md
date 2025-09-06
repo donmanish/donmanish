@@ -1,25 +1,21 @@
-<h1 align="left"> I become coder for fun.</h1>
+<h1 align="left">Software Developer</h1>
 
 Planner/Designer/Developer/
     
 <h3 align="left">Description</h3>
-<p align="left">I have been working on UI/UX design as a full-stack developer for 3 years and playing with it. My curiosity about project work keeps growing, and I always bring some good ideas to the desk. I face many challenges to complete the project. All coding projects are built from the ground up, from planning, designing, developing, and deploying all the way to solving real-life problems. My aim is to figure out all System designs myself and explore more.</p>
+<p align="left">I have been working on UI/UX design as a full-stack developer for 3 years, constantly exploring and experimenting with it. My curiosity about project work keeps growing, and I always bring innovative ideas to the table. Throughout my journey, I have faced many challenges while completing projects, but I enjoy building everything from the ground up — from planning, designing, developing, and deploying, to solving real-world problems. My aim is to figure out system designs on my own and keep exploring more. I am also learning High-Level Design (HLD) concepts along with Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI) to strengthen my problem-solving and system-building skills.</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 <hr />
-
-# Project work on
-- <a href="https://github.com/zoroworld/Eccom_app" target="_blank">Eccomerce Web App</a>
-
-- <a href="https://github.com/zoroworld/task-management" target="_blank">Task Management</a>
-
-
-<hr />
+<span align="left"> <a href="https://www.kaggle.com/manishpanda321" target="_blank"><img  src="https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white&display=inline-block" /></a></span>
+<span align="left"> <a href="https://leetcode.com/u/Codeloot/" target="_blank"><img  src="https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white&display=inline-block" /></a></span>
 
 <h3 align="left">See my UI and UX design and many more... </h3>
-<span align="left"> <a href="https://www.linkedin.com/in/manish-panda-b41576209" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
+<span align="left"> <a href="https://linkedin.com/in/manishdv" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
 <span align="left"> <a href="https://www.instagram.com/firewheel1996/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
-<span align="left"> <a href="https://manishpanda.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
+<span align="left"> <a href="https://getportfolio.info/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
 
 <hr />
 
@@ -35,19 +31,16 @@ Planner/Designer/Developer/
 
 <hr />
 
-<h3>Depeloper</h3>
+<h3>Developer</h3>
 
 <h4>Programming Language:</h4>
 <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></span>
-<span><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white" /></span>
 
 
 
@@ -59,12 +52,13 @@ Planner/Designer/Developer/
 
 
 
-<h4>Frameworks, Platforms and Libraries</h4>
+<h4>Work on Frameworks, Platforms and Libraries</h4>
+
+<span><img src="https://img.shields.io/badge/-Django-%F5788D?style=for-the-badge&logo=django&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/chart.js-%F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Electron-%191970?style=for-the-badge&logo=Electron&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></span>
 <span><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /></span>
@@ -74,10 +68,13 @@ Planner/Designer/Developer/
 <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></span>
 <span><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></span>
 <span><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB" /></span>
+<span><img src="https://img.shields.io/badge/numpy-%23CB3837.svg?style=for-the-badge&logo=numpy&logoColor=white" /></span>
 
 
 <hr />
+
+
 
 <h3>OS:</h3>
 <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
@@ -87,12 +84,10 @@ Planner/Designer/Developer/
 
 <hr />
 
-<h3>Server:</h3>
-<span><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" /></span>
-
-
-
-
-
+<h3>AI/ML/DL</h3>
+<span><img src="https://img.shields.io/badge/Ml-3DDC84?style=for-the-badge&logo=ML&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/DL-3DDC84?style=for-the-badge&logo=DL&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/langchain-3DDC84?style=for-the-badge&logo=langchain&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/langgraph-0078D6?style=for-the-badge&logo=langgraph&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/langsmith-23117AC9?style=for-the-badge&logo=langsmith&logoColor=white" /></span>
 
